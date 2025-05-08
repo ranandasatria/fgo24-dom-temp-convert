@@ -21,15 +21,15 @@ form.addEventListener('submit', function (event){
       
 
 function celciusToFahrenheit(celcius) {
-    return (celcius * 9 / 5) + 32;
+    return (Number(celcius) * 9 / 5) + 32;
 }
 
 
 function celciusToReamur(celcius) {
-    return (4 / 5 * celcius);
+    return (4 / 5 * Number(celcius));
 }
 
 
 function celciusToKelvin(celcius) {
-    return celcius + 273;
+    return Number(celcius) + 273;
 }
