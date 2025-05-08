@@ -11,7 +11,7 @@ This project is a simple JavaScript application that dynamically converts temper
 ## Getting Started
 1. Clone this project:
 ```
-git clone https://github.com/ranandasatria/fgo24-dom-basic
+git clone https://github.com/ranandasatria/fgo24-dom-temp-convert
 ```
 
 2. Install the depedencies:
